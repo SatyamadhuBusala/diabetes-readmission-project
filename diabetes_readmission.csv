@@ -1,0 +1,11 @@
+patient_id,age,gender,admission_type,discharge_disposition,num_lab_procedures,num_medications,hemoglobin,A1Cresult,diabetesMed,readmitted
+1,50,M,ELECTIVE,HOME,35,10,13.2,Normal,Yes,0
+2,70,F,EMERGENCY,HOME,40,12,11.0,>7,Yes,1
+3,45,M,EMERGENCY,HOME,20,8,14.1,Normal,No,0
+4,83,F,URGENT,NURSING_HOME,50,20,9.5,>8.5,Yes,1
+5,60,M,ELECTIVE,HOME,30,9,12.4,Normal,Yes,0
+6,72,F,EMERGENCY,HOME,45,18,10.2,>7,Yes,1
+7,55,M,URGENT,HOME,25,7,13.8,Normal,No,0
+8,68,F,EMERGENCY,HOSPITAL,38,15,11.5,>8.5,Yes,1
+9,40,M,ELECTIVE,HOME,18,6,15.0,Normal,No,0
+10,77,F,EMERGENCY,NURSING_HOME,42,16,10.8,>7,Yes,1
